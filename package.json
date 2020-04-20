@@ -1,0 +1,28 @@
+{
+  "name": "aws-xray-sdk-express-sample",
+  "version": "1.0.0",
+  "description": "Official Express sample application for the AWS X-Ray SDK for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon",
+    "aws",
+    "sample",
+    "xray",
+    "x-ray",
+    "x ray"
+  ],
+  "author": "Amazon Web Services",
+  "contributors": [
+    "William Armiros <https://github.com/willarmiros>"
+  ],
+  "license": "MIT-0",
+  "dependencies": {
+    "aws-sdk": "^2.657.0",
+    "aws-xray-sdk": "^3.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
